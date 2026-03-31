@@ -207,7 +207,7 @@ const Index = () => {
         <div className="card-menu overflow-hidden">
           <iframe
             title="Lokasi Chicken Kriuk Warzuqnii"
-            src="https://www.google.com/maps/place/Ayam+Chicken+Kriuk+Warzuqnii+Sayegan/@-7.7257856,110.3147312,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7af7001f243d31:0xcc9627e4b6e96d1b!8m2!3d-7.7257856!4d110.3147312!16s%2Fg%2F11xl06f2gs!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.6019404184913!2d110.3147312!3d-7.725785599999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7af7001f243d31%3A0xcc9627e4b6e96d1b!2sAyam%20Chicken%20Kriuk%20Warzuqnii%20Sayegan!5e0!3m2!1sen!2sid!4v1774964776907!5m2!1sen!2sid"
             className="w-full h-36 border-0"
             loading="lazy"
           />
